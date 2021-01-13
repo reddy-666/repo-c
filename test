@@ -1,6 +1,10 @@
 Hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is repo-c
 =======
 This is repo-a
 >>>>>>> repo-a/main
+=======
+This is repo-b
+>>>>>>> repo-b/main
